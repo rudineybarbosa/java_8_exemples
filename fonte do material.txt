@@ -1,0 +1,5 @@
+All: 
+http://books.brainysoftware.com/download
+
+Java 8:
+https://bitbucket.org/budi-kurniawan/upgrading-to-java-8/downloads
